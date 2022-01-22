@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neeraj Chowdary Vipparla</h1>
 <h3 align="center">Currently Studying Artificial Intelligence Engineering at Amrita Vishwa Vidyapeetham ✌🏻</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajchowdary889&label=Profile%20views&color=0e75b6&style=flat" alt="neerajchowdary889" /> </p>
+
+
+![giphy](https://user-images.githubusercontent.com/57310710/150652195-1fbe6327-7d2e-4e63-96d0-f86cd43ed97a.gif)
+
+
+
 
 - 🔭 I’m currently **Exploring everything I can do in my 18's 👨🏻‍💻**
 
