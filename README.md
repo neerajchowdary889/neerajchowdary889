@@ -17,9 +17,9 @@
 
 - 👯 Got Habituated **to Experimenting New Things 🤷🏻‍♂️**
 
-- 👨‍💻 All of my projects are available at [https://github.com/neerajchowdary889](https://github.com/neerajchowdary889)
+- 👨‍💻 All of my projects are available at : [https://github.com/neerajchowdary889](https://github.com/neerajchowdary889)
 
-- 📫 How to reach me **neerajchowdary889@gmail.com**
+- 📫 How to reach me : **neerajchowdary889@gmail.com**
 
 - ⚡ I Love **to Connect with many people, and love to share laughs and thoughts 🥰**
 
