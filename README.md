@@ -14,7 +14,7 @@
 
 - 👯 Got Habituated **to Experimenting New Things 🤷🏻‍♂️**
 
-- ⚡ I Love **to Connect with many people, and love to share laughs and thoughts 🥰**
+- ⚡ I Love **to Connect with people, and love to share laughs and thoughts 🥰**
 
 - 🌱 I’m currently learning **Python, Java, Machine learning 💻**
 
