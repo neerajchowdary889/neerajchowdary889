@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Neeraj Chowdary Vipparla</h1>
 <h3 align="center">Currently Studying Artificial Intelligence Engineering  ✌🏻</h3>
-<h3 align="center"> Amrita Vishwa Vidyapeetham (ASE 21-25)🏻</h3>
+<h3 align="center"> Amrita Vishwa Vidyapeetham (ASE 21-25)</h3>
 
 
 
@@ -16,9 +16,9 @@
 
 - ⚡ I Love **to Connect with people, and love to share laughs and thoughts 🥰**
 
-- 🌱 I’m currently learning **Python, Java, Machine learning 💻**
+- 🌱 I’m currently learning **Python, Java, Machine learning 💻, Cryptography 🧭**
 
-- 👨‍💻 All of my projects are available at : [https://github.com/neerajchowdary889](https://github.com/neerajchowdary889)
+- 👨‍💻 Love **Computer science </>** 😙
 
 - 📫 How to reach me : **neerajchowdary889@gmail.com**
 
