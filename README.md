@@ -42,3 +42,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajchowdary889&" alt="neerajchowdary889" /></p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=neerajchowdary889&label=Profile%20views&color=0e75b6&style=flat" alt="neerajchowdary889" /> </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
