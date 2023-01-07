@@ -10,15 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/neerajchowdar20" target="blank"><img src="https://img.shields.io/twitter/follow/neerajchowdar20?logo=twitter&style=for-the-badge" alt="neerajchowdar20" /></a> </p>
 
-- 🔭 I’m currently **Exploring everything I can do in my 18's 👨🏻‍💻**
+- I’m currently **Exploring everything I can do in my 18's🏻‍**
 
-- 👯 Got Habituated **to Experimenting New Things 🤷🏻‍♂️**
+- Got Habituated **to Experimenting New Things🏻‍**
 
-- ⚡ I Love **to Connect with people, and love to share laughs and thoughts 🥰**
+- I Love **to Connect with people, and love to share laughs and thoughts 🥰**
 
-- 🌱 I’m currently learning **Python, Java, Machine learning 💻, Cryptography 🧭**
-
-- 👨‍💻 Love **Computer science </>** 😙
+- I Love **Computer science </>** 
 
 - 💬 Portfolio : **https://neeraj-portfolio.super.site/**
 
