@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/neerajchowdar20" target="blank"><img src="https://img.shields.io/twitter/follow/neerajchowdar20?logo=twitter&style=for-the-badge" alt="neerajchowdar20" /></a> </p>
 
-- I’m currently **Exploring everything I can do in my 18's🏻‍**
+- I’m currently **Exploring everything I can do in my 20's🏻‍**
 
 - Got Habituated **to Experimenting New Things🏻‍**
 
