@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Neeraj Chowdary Vipparla</h1>
-<h3 align="center">Currently Studying Artificial Intelligence Engineering  ✌🏻</h3>
-<h3 align="center"> Amrita Vishwa Vidyapeetham (ASE 21-25)</h3>
+<h3 align="center">Blockchain Protocol Engineer at Jupiter Meta ✌🏻</h3>
+<!-- <h3 align="center"> Amrita Vishwa Vidyapeetham (ASE 21-25)</h3> -->
 
 
 
