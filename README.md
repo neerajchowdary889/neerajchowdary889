@@ -9,7 +9,7 @@
 
 
 <p align="left">
-  <a href="https://twitter.com/neerajchowdar20" target="blank">
+  <a href="https://x.com/NeerajChowdaryV" target="blank">
     <img src="https://img.shields.io/twitter/follow/neerajchowdar20?logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/neeraj-chowdary/" target="blank">
